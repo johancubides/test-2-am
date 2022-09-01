@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://cdn.discordapp.com/attachments/983049867435851836/1014791662691688538/aaa.jpg);
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+
+}   
+
+p{
+    font-family: fantasy;
+    padding: 1%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
